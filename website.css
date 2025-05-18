@@ -124,29 +124,3 @@
   color: #218aff;
   text-decoration: none;
 }
-
-.hero {
-  text-align: center;
-  margin: 40px 0;
-}
-
-.hero h2 {
-  font-size: 32px;
-  margin-bottom: 10px;
-}
-
-.hero p {
-  font-size: 16px;
-  color: #666;
-  margin-bottom: 20px;
-}
-
-.hero .cta-button {
-  padding: 10px 20px;
-  background-color: #218aff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  font-weight: bold;
-  text-decoration: none;
-}
